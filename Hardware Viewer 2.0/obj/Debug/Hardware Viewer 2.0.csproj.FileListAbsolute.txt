@@ -1,0 +1,7 @@
+C:\Users\Ullah\source\repos\Hardware Viewer 2.0\Hardware Viewer 2.0\obj\Debug\Hardware Viewer 2.0.csprojAssemblyReference.cache
+C:\Users\Ullah\source\repos\Hardware Viewer 2.0\Hardware Viewer 2.0\obj\Debug\Hardware Viewer 2.0.csproj.CoreCompileInputs.cache
+C:\Users\Ullah\source\repos\Hardware Viewer 2.0\Hardware Viewer 2.0\bin\Debug\Hardware Viewer 2.0.exe.config
+C:\Users\Ullah\source\repos\Hardware Viewer 2.0\Hardware Viewer 2.0\bin\Debug\Hardware Viewer 2.0.exe
+C:\Users\Ullah\source\repos\Hardware Viewer 2.0\Hardware Viewer 2.0\bin\Debug\Hardware Viewer 2.0.pdb
+C:\Users\Ullah\source\repos\Hardware Viewer 2.0\Hardware Viewer 2.0\obj\Debug\Hardware Viewer 2.0.exe
+C:\Users\Ullah\source\repos\Hardware Viewer 2.0\Hardware Viewer 2.0\obj\Debug\Hardware Viewer 2.0.pdb
